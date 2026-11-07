@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Baggage Estimator</string>
+
+    <string name="header_title">Excess Baggage Fee</string>
+    <string name="header_subtitle">Estimate your charge before you fly</string>
+
+    <string name="app_url">https://github.com/aleeya-sarah/excessBaggage.git</string>
+
+    <string name="instructions">Enter your checked baggage details to estimate the excess baggage fee. Allowance: Economy 20 kg, Business 40 kg. 8% service tax is added.</string>
+    <string name="hint_weight">Baggage weight</string>
+    <string name="helper_weight">Total checked baggage weight, e.g. 25 or 42.5</string>
+    <string name="label_class">Ticket class</string>
+    <string name="economy">Economy (20 kg)</string>
+    <string name="business">Business (40 kg)</string>
+    <string name="hint_rate">Excess rate per kg</string>
+    <string name="helper_rate">Charged by your airline, e.g. 15</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+    <string name="summary_output">Summary Output</string>
+    <string name="label_excess">Excess Weight :</string>
+    <string name="label_charge">Excess Charge :</string>
+    <string name="label_total">Total Amount Payable (incl. 8% tax) :</string>
+
+    <string name="error_weight_empty">Please enter a valid baggage weight</string>
+    <string name="error_rate_empty">Please enter a valid rate per kg</string>
+    <string name="error_negative">Value cannot be negative</string>
+
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="share_via">Share app via</string>
+    <string name="share_message">Check out this baggage fee estimator app :%1$s</string>
+
+    <string name="about_title">About</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_description">Estimates the excess baggage fee for air travel based on baggage weight, ticket class and rate per kg.</string>
+    <string name="developer_details">Developer Details</string>
+
+    <string name="developer_info">Name: Aleeya Shafiqah Sarah Binti Mohd Azri\nStudent No: 2024680844\nGroup: RCDCS2405A\nProgramme Code: CS240\nCourse: ICT602</string>
+    <string name="website_label">Application website</string>
+    <string name="copyright">© 2026 Baggage Estimator. All rights reserved.</string>
+</resources>
